@@ -139,6 +139,11 @@
         "Kubernetes",
         "Docker"
       ]
+    },
+    {
+      "name": "Other",
+      "level": "Master",
+      "keywords": ["REST", "GraphQL", "MongoDB", "Linux", "Typescript"]
     }
   ]
 }
