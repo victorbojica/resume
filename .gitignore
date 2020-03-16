@@ -1,0 +1,6 @@
+.idea
+node_modules
+dist/*.pdf
+.history
+.DS_Store
+dist/.DS_Store

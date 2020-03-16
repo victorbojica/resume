@@ -1,0 +1,144 @@
+{
+  "meta": {
+    "theme": "elegant"
+  },
+  "basics": {
+    "name": "Victor Bojica",
+    "label": "Full-stack Developer",
+    "picture": "https://media-exp1.licdn.com/dms/image/C4E03AQEmXz71XOvv5g/profile-displayphoto-shrink_200_200/0?e=1590019200&v=beta&t=2OcDWTzaD50Rf4pfWE6QzLj4Sc7Cx60iKpcsHaHLkk8",
+    "email": "victor@niftylearning.io",
+    "phone": "+40 753 354 722",
+    "website": "http://niftylearning.io",
+    "summary": "Passionate and curios developer with a love for the challenge. Currently co-founder and CTO of Nifty Learning \n5+ years of exprience in enterprise software development\n6 years of experience in working with PHP \n4 years of experience in working with Javascript, NodeJS and React",
+    "location": {
+      "city": "Iasi",
+      "countryCode": "RO",
+      "region": "Romania"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "Victor Bojica",
+        "url": "https://www.linkedin.com/in/victor-bojica-0a1b9395/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Nifty Learning",
+      "position": "Co-founder & CTO",
+      "website": "https://niftylearning.io",
+      "startDate": "2016-10-01",
+      "summary": "Nifty Learning is a software solution (SaaS) that helps enterprises and training agencies plan their training sessions, track budgets and optimise fill-rates. \nI am currently in charge of (but not limited to 🤫):",
+      "highlights": [
+        "Full-stack development (NodeJS, React)",
+        "DevOps/SysAdmin (mostly AWS)",
+        "Technical support",
+        "Business analysis",
+        "Product management"
+      ]
+    },
+    {
+      "company": "Hogarth Worldwide",
+      "position": "Senior Full-stack Developer",
+      "website": "https://www.hogarthww.com/",
+      "startDate": "2014-07-01",
+      "endDate": "2018-04-30",
+      "summary": "Hogarthw Worldwide is a big advertising company, with clients all over the world and in a lot of different fields.  \nHere I've had the opportunity to work a lot of big customers such as Pfizer, Roche, Nestle, TUI Group, etc. \nDuring my stay, I've worn many hats - PHP developer, Ruby Developer, Team-lead, DevOps or software architect - all of which were incredibly developmental to me."
+    },
+    {
+      "company": "e-CAD",
+      "position": "Ruby on Rails Developer",
+      "website": "https://www.e-cad.ro/",
+      "startDate": "2014-02-01",
+      "endDate": "2014-10-01",
+      "summary": "E-Cad is a romanian software solution that helps companies process and build cadastral maps. The solution is strictly targeted towards the romanian market. \n Here I was in charge of developing various modules of the app, such as:",
+      "highlights": [
+        "DXF file parsing and rendering",
+        "Custom Google maps implementation and integration with DXF file viewing",
+        "Cadastre related operations"
+      ]
+    },
+    {
+      "company": "MadBits Design",
+      "position": "Co-founder & Full-stack Developer",
+      "startDate": "2010-06-01",
+      "endDate": "2014-10-31",
+      "summary": "Madbits Design was a software service company. We offered various development services for small to mid-size companies.",
+      "highlights": [
+        "Project management",
+        "Web development (PHP, HTML, CSS, JS)",
+        "Produc and website design",
+        "Customer development",
+        "Public relationships and marketing",
+        "Technical support"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "LSAC Iasi",
+      "website": "https://lsaciasi.ro/",
+      "startDate": "2012-10-20",
+      "endDate": "2014-01-10",
+      "highlights": [
+        "Maintained the organisations web page and Facebook page",
+        "Worked on creating graphic designs (posters, flyers, etc.) for different events"
+      ]
+    },
+    {
+      "organization": "BEST Iasi",
+      "position": "Public Relations",
+      "website": "https://www.best.eu.org/index.jsp",
+      "startDate": "2015-03-01",
+      "endDate": "2016-03-01",
+      "summary": "BEST, Board of European Students of Technology is a constantly growing non-profit and non-political organisation which strives to help European students of technology to become more internationally minded.",
+      "highlights": [
+        "Worked in several departments: Public Relations, Fundrasing and Human Resources.",
+        "Coordinated the public relations and marketing team for an external event of 400+ participants"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Gheorghe Asachi​ Technical University of Iași",
+      "area": "Computer Sciences and Automation and Industrial Control Systems",
+      "studyType": "Bachelor",
+      "startDate": "2012-10-01",
+      "endDate": "2016-08-01"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Software Development",
+      "level": "Master",
+      "keywords": [
+        "Javascript",
+        "NodeJS",
+        "React",
+        "AngularJS",
+        "PostgreSQL",
+        "Redis",
+        "PHP",
+        "Laravel",
+        "CakePHP",
+        "Ruby on Rails"
+      ]
+    },
+    {
+      "name": "DevOps",
+      "level": "Master",
+      "keywords": [
+        "AWS",
+        "Azure",
+        "Google Cloud",
+        "CI/CD",
+        "Capistrano",
+        "GitLab",
+        "Git",
+        "Kubernetes",
+        "Docker"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "resume",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "./node_modules/.bin/resume export --theme elegant dist/index.html",
+    "build-pdf": "./node_modules/.bin/resume export --theme elegant dist/index.pdf",
+    "publish": "./node_modules/.bin/resume publish --theme elegant"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jsonresume-theme-elegant": "^1.13.2",
+    "resume-cli": "^1.2.7"
+  }
+}
