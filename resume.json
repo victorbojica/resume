@@ -144,7 +144,16 @@
     {
       "name": "Other",
       "level": "Master",
-      "keywords": ["REST", "GraphQL", "MongoDB", "Linux", "Typescript"]
+      "keywords": [
+        "REST",
+        "GraphQL",
+        "MongoDB",
+        "Linux",
+        "Typescript",
+        "Photoshop",
+        "Sketch",
+        "InDesign"
+      ]
     }
   ]
 }
