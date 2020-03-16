@@ -4,8 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "build": "./node_modules/.bin/resume export --theme elegant dist/index.html",
-    "build-pdf": "./node_modules/.bin/resume export --theme elegant dist/index.pdf",
+    "build": "./node_modules/.bin/resume export --theme elegant index.html",
+    "build-pdf": "./node_modules/.bin/resume export --theme elegant index.pdf",
     "publish": "./node_modules/.bin/resume publish --theme elegant"
   },
   "author": "",
